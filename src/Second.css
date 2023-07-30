@@ -1,0 +1,30 @@
+.Second{
+    background-color: #e5d3b3;
+ 
+}
+
+.container{
+    display: flex;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+}
+
+.para1{
+    margin-left: 500px;
+    margin-top: 40px;
+   
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+
+}
+
+.para2{
+    font-size: 18px;
+    color: rgb(90, 89, 89);
+    margin-left: 10%;
+}
+
+.caro{
+    background-color: #e5d3b3;
+}
